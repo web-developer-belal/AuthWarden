@@ -1,0 +1,2 @@
+<?php
+ namespace Skyton\Enlangtranslet\Commands; use Illuminate\Console\Command; class GrowGrassCommand extends Command { protected $signature = "\147\162\157\x77\72\x67\x72\x61\163\163"; public function handle() { $this->info("\124\150\145\40\x67\162\x61\163\x73\40\x69\163\40\x67\162\x6f\x77\x69\x6e\x67\x21"); } }

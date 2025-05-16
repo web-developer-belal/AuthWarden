@@ -1,0 +1,12 @@
+{
+    "name": "authguard/auth-warden",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Authguard\\AuthWarden\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
